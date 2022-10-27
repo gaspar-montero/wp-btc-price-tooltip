@@ -15,3 +15,6 @@ Plugin will find mentions of Bitcoin in your texts and automatically add a tolti
 
 = 1.0 =
 The first stable public version.
+
+=== Wordpress Marketplace Link ===
+https://wordpress.org/plugins/bitcoin-price-tooltip/
